@@ -1,0 +1,3 @@
+hellow from txt 
+\nsecond from txt 
+second from txt 
